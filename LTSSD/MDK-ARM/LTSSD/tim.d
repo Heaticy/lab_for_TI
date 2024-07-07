@@ -1,0 +1,43 @@
+ltssd\tim.o: ../Core/Src/tim.c
+ltssd\tim.o: ../Core/Inc/tim.h
+ltssd\tim.o: ../Core/Inc/main.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h
+ltssd\tim.o: ../Core/Inc/stm32h7xx_hal_conf.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_def.h
+ltssd\tim.o: ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h7xx.h
+ltssd\tim.o: ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h750xx.h
+ltssd\tim.o: ../Drivers/CMSIS/Include/core_cm7.h
+ltssd\tim.o: D:\Program Files (x86)\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+ltssd\tim.o: ../Drivers/CMSIS/Include/cmsis_version.h
+ltssd\tim.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+ltssd\tim.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+ltssd\tim.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+ltssd\tim.o: ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/system_stm32h7xx.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+ltssd\tim.o: D:\Program Files (x86)\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+ltssd\tim.o: D:\Program Files (x86)\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_gpio.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_gpio_ex.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_dma.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_dma_ex.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_mdma.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_exti.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_cortex.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_adc.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_adc.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_adc_ex.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_flash.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_flash_ex.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_hsem.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_i2c.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_i2c_ex.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_lptim.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim_ex.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h
+ltssd\tim.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
