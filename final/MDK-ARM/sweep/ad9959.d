@@ -7,7 +7,7 @@ sweep\ad9959.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_def.h
 sweep\ad9959.o: ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h7xx.h
 sweep\ad9959.o: ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h750xx.h
 sweep\ad9959.o: ../Drivers/CMSIS/Include/core_cm7.h
-sweep\ad9959.o: D:\Program Files (x86)\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+sweep\ad9959.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 sweep\ad9959.o: ../Drivers/CMSIS/Include/cmsis_version.h
 sweep\ad9959.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 sweep\ad9959.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
@@ -15,8 +15,8 @@ sweep\ad9959.o: ../Drivers/CMSIS/Include/mpu_armv7.h
 sweep\ad9959.o: ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/system_stm32h7xx.h
 sweep\ad9959.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h
 sweep\ad9959.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-sweep\ad9959.o: D:\Program Files (x86)\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
-sweep\ad9959.o: D:\Program Files (x86)\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+sweep\ad9959.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+sweep\ad9959.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
 sweep\ad9959.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h
 sweep\ad9959.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_gpio.h
 sweep\ad9959.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_gpio_ex.h

@@ -194,7 +194,7 @@ int main(void)
 	HAL_TIM_PWM_Start(&htim4, TIM_CHANNEL_1); 
 	//Ê¹ÄÜLPTIM1ÖÐ¶Ï
 	HAL_LPTIM_Counter_Start_IT(&hlptim1,3905);
-	 printf("main.t2.txt=\"1 Ohm\"\xff\xff\xff");
+	 printf("t0.txt=\"1 Ohm\"\xff\xff\xff");
   /* USER CODE END 2 */
 
   /* Infinite loop */

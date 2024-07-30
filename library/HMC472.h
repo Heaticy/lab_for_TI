@@ -8,5 +8,5 @@
 
 //-----------------------------------------------------------------
 void HMC472_Init(void);
-void HMC472set(int num);
+void HMC472set(unsigned int num);
 #endif

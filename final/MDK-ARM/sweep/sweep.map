@@ -2696,32 +2696,32 @@ Image Symbol Table
     i.fputc                                  0x0800b9f0   Section        0  debug.o(i.fputc)
     i.kfft                                   0x0800ba14   Section        0  main.o(i.kfft)
     i.main                                   0x0800bd9c   Section        0  main.o(i.main)
-    i.reply_er                               0x0800be10   Section        0  debug.o(i.reply_er)
-    i.sqrt                                   0x0800be48   Section        0  sqrt.o(i.sqrt)
-    .constdata                               0x0800beb2   Section        8  stm32h7xx_hal_dma.o(.constdata)
-    flagBitshiftOffset                       0x0800beb2   Data           8  stm32h7xx_hal_dma.o(.constdata)
-    .constdata                               0x0800beba   Section       24  stm32h7xx_hal_uart.o(.constdata)
-    .constdata                               0x0800bed2   Section       16  stm32h7xx_hal_uart_ex.o(.constdata)
-    numerator                                0x0800bed2   Data           8  stm32h7xx_hal_uart_ex.o(.constdata)
-    denominator                              0x0800beda   Data           8  stm32h7xx_hal_uart_ex.o(.constdata)
-    .constdata                               0x0800bee2   Section       16  system_stm32h7xx.o(.constdata)
-    .constdata                               0x0800bef8   Section      136  pow.o(.constdata)
-    bp                                       0x0800bef8   Data          16  pow.o(.constdata)
-    dp_h                                     0x0800bf08   Data          16  pow.o(.constdata)
-    dp_l                                     0x0800bf18   Data          16  pow.o(.constdata)
-    L                                        0x0800bf28   Data          48  pow.o(.constdata)
-    P                                        0x0800bf58   Data          40  pow.o(.constdata)
-    .constdata                               0x0800bf80   Section       48  cos_i.o(.constdata)
-    C                                        0x0800bf80   Data          48  cos_i.o(.constdata)
-    .constdata                               0x0800bfb0   Section        8  qnan.o(.constdata)
-    .constdata                               0x0800bfb8   Section      200  rred.o(.constdata)
-    pio2s                                    0x0800bfb8   Data          48  rred.o(.constdata)
-    twooverpi                                0x0800bfe8   Data         152  rred.o(.constdata)
-    .constdata                               0x0800c080   Section       40  sin_i.o(.constdata)
-    S                                        0x0800c080   Data          40  sin_i.o(.constdata)
-    .constdata                               0x0800c0a8   Section      129  ctype_o.o(.constdata)
-    .constdata                               0x0800c12c   Section        4  ctype_o.o(.constdata)
-    table                                    0x0800c12c   Data           4  ctype_o.o(.constdata)
+    i.reply_er                               0x0800be0c   Section        0  debug.o(i.reply_er)
+    i.sqrt                                   0x0800be44   Section        0  sqrt.o(i.sqrt)
+    .constdata                               0x0800beae   Section        8  stm32h7xx_hal_dma.o(.constdata)
+    flagBitshiftOffset                       0x0800beae   Data           8  stm32h7xx_hal_dma.o(.constdata)
+    .constdata                               0x0800beb6   Section       24  stm32h7xx_hal_uart.o(.constdata)
+    .constdata                               0x0800bece   Section       16  stm32h7xx_hal_uart_ex.o(.constdata)
+    numerator                                0x0800bece   Data           8  stm32h7xx_hal_uart_ex.o(.constdata)
+    denominator                              0x0800bed6   Data           8  stm32h7xx_hal_uart_ex.o(.constdata)
+    .constdata                               0x0800bede   Section       16  system_stm32h7xx.o(.constdata)
+    .constdata                               0x0800bef0   Section      136  pow.o(.constdata)
+    bp                                       0x0800bef0   Data          16  pow.o(.constdata)
+    dp_h                                     0x0800bf00   Data          16  pow.o(.constdata)
+    dp_l                                     0x0800bf10   Data          16  pow.o(.constdata)
+    L                                        0x0800bf20   Data          48  pow.o(.constdata)
+    P                                        0x0800bf50   Data          40  pow.o(.constdata)
+    .constdata                               0x0800bf78   Section       48  cos_i.o(.constdata)
+    C                                        0x0800bf78   Data          48  cos_i.o(.constdata)
+    .constdata                               0x0800bfa8   Section        8  qnan.o(.constdata)
+    .constdata                               0x0800bfb0   Section      200  rred.o(.constdata)
+    pio2s                                    0x0800bfb0   Data          48  rred.o(.constdata)
+    twooverpi                                0x0800bfe0   Data         152  rred.o(.constdata)
+    .constdata                               0x0800c078   Section       40  sin_i.o(.constdata)
+    S                                        0x0800c078   Data          40  sin_i.o(.constdata)
+    .constdata                               0x0800c0a0   Section      129  ctype_o.o(.constdata)
+    .constdata                               0x0800c124   Section        4  ctype_o.o(.constdata)
+    table                                    0x0800c124   Data           4  ctype_o.o(.constdata)
     .data                                    0x24000000   Section       27  ad9959.o(.data)
     .data                                    0x2400001c   Section       21  debug.o(.data)
     device_er                                0x24000020   Data           2  debug.o(.data)
@@ -3144,14 +3144,14 @@ Image Symbol Table
     fputc                                    0x0800b9f1   Thumb Code    26  debug.o(i.fputc)
     kfft                                     0x0800ba15   Thumb Code   890  main.o(i.kfft)
     main                                     0x0800bd9d   Thumb Code    82  main.o(i.main)
-    reply_er                                 0x0800be11   Thumb Code    42  debug.o(i.reply_er)
-    sqrt                                     0x0800be49   Thumb Code   106  sqrt.o(i.sqrt)
-    UARTPrescTable                           0x0800beba   Data          24  stm32h7xx_hal_uart.o(.constdata)
-    D1CorePrescTable                         0x0800bee2   Data          16  system_stm32h7xx.o(.constdata)
-    __mathlib_zero                           0x0800bfb0   Data           8  qnan.o(.constdata)
-    __ctype_table                            0x0800c0a8   Data         129  ctype_o.o(.constdata)
-    Region$$Table$$Base                      0x0800c130   Number         0  anon$$obj.o(Region$$Table)
-    Region$$Table$$Limit                     0x0800c150   Number         0  anon$$obj.o(Region$$Table)
+    reply_er                                 0x0800be0d   Thumb Code    42  debug.o(i.reply_er)
+    sqrt                                     0x0800be45   Thumb Code   106  sqrt.o(i.sqrt)
+    UARTPrescTable                           0x0800beb6   Data          24  stm32h7xx_hal_uart.o(.constdata)
+    D1CorePrescTable                         0x0800bede   Data          16  system_stm32h7xx.o(.constdata)
+    __mathlib_zero                           0x0800bfa8   Data           8  qnan.o(.constdata)
+    __ctype_table                            0x0800c0a0   Data         129  ctype_o.o(.constdata)
+    Region$$Table$$Base                      0x0800c128   Number         0  anon$$obj.o(Region$$Table)
+    Region$$Table$$Limit                     0x0800c148   Number         0  anon$$obj.o(Region$$Table)
     CSR_DATA0                                0x24000000   Data           1  ad9959.o(.data)
     CSR_DATA1                                0x24000001   Data           1  ad9959.o(.data)
     CSR_DATA2                                0x24000002   Data           1  ad9959.o(.data)
@@ -3201,9 +3201,9 @@ Memory Map of the image
 
   Image Entry point : 0x08000299
 
-  Load Region LR_IROM1 (Base: 0x08000000, Size: 0x0000c220, Max: 0x00020000, ABSOLUTE)
+  Load Region LR_IROM1 (Base: 0x08000000, Size: 0x0000c218, Max: 0x00020000, ABSOLUTE)
 
-    Execution Region ER_IROM1 (Exec base: 0x08000000, Load base: 0x08000000, Size: 0x0000c150, Max: 0x00020000, ABSOLUTE)
+    Execution Region ER_IROM1 (Exec base: 0x08000000, Load base: 0x08000000, Size: 0x0000c148, Max: 0x00020000, ABSOLUTE)
 
     Exec Addr    Load Addr    Size         Type   Attr      Idx    E Section Name        Object
 
@@ -3458,44 +3458,44 @@ Memory Map of the image
     0x0800b9d8   0x0800b9d8   0x00000018   Code   RO         5979    i.fabs              m_wv.l(fabs.o)
     0x0800b9f0   0x0800b9f0   0x00000024   Code   RO          247    i.fputc             debug.o
     0x0800ba14   0x0800ba14   0x00000388   Code   RO          326    i.kfft              main.o
-    0x0800bd9c   0x0800bd9c   0x00000074   Code   RO          327    i.main              main.o
-    0x0800be10   0x0800be10   0x00000038   Code   RO          248    i.reply_er          debug.o
-    0x0800be48   0x0800be48   0x0000006a   Code   RO         5678    i.sqrt              m_wv.l(sqrt.o)
-    0x0800beb2   0x0800beb2   0x00000008   Data   RO         2039    .constdata          stm32h7xx_hal_dma.o
-    0x0800beba   0x0800beba   0x00000018   Data   RO         5132    .constdata          stm32h7xx_hal_uart.o
-    0x0800bed2   0x0800bed2   0x00000010   Data   RO         5502    .constdata          stm32h7xx_hal_uart_ex.o
-    0x0800bee2   0x0800bee2   0x00000010   Data   RO         5606    .constdata          system_stm32h7xx.o
-    0x0800bef2   0x0800bef2   0x00000006   PAD
-    0x0800bef8   0x0800bef8   0x00000088   Data   RO         5653    .constdata          m_wv.l(pow.o)
-    0x0800bf80   0x0800bf80   0x00000030   Data   RO         5961    .constdata          m_wv.l(cos_i.o)
-    0x0800bfb0   0x0800bfb0   0x00000008   Data   RO         5987    .constdata          m_wv.l(qnan.o)
-    0x0800bfb8   0x0800bfb8   0x000000c8   Data   RO         5990    .constdata          m_wv.l(rred.o)
-    0x0800c080   0x0800c080   0x00000028   Data   RO         5994    .constdata          m_wv.l(sin_i.o)
-    0x0800c0a8   0x0800c0a8   0x00000081   Data   RO         6023    .constdata          mc_w.l(ctype_o.o)
-    0x0800c129   0x0800c129   0x00000003   PAD
-    0x0800c12c   0x0800c12c   0x00000004   Data   RO         6024    .constdata          mc_w.l(ctype_o.o)
-    0x0800c130   0x0800c130   0x00000020   Data   RO         6080    Region$$Table       anon$$obj.o
+    0x0800bd9c   0x0800bd9c   0x00000070   Code   RO          327    i.main              main.o
+    0x0800be0c   0x0800be0c   0x00000038   Code   RO          248    i.reply_er          debug.o
+    0x0800be44   0x0800be44   0x0000006a   Code   RO         5678    i.sqrt              m_wv.l(sqrt.o)
+    0x0800beae   0x0800beae   0x00000008   Data   RO         2039    .constdata          stm32h7xx_hal_dma.o
+    0x0800beb6   0x0800beb6   0x00000018   Data   RO         5132    .constdata          stm32h7xx_hal_uart.o
+    0x0800bece   0x0800bece   0x00000010   Data   RO         5502    .constdata          stm32h7xx_hal_uart_ex.o
+    0x0800bede   0x0800bede   0x00000010   Data   RO         5606    .constdata          system_stm32h7xx.o
+    0x0800beee   0x0800beee   0x00000002   PAD
+    0x0800bef0   0x0800bef0   0x00000088   Data   RO         5653    .constdata          m_wv.l(pow.o)
+    0x0800bf78   0x0800bf78   0x00000030   Data   RO         5961    .constdata          m_wv.l(cos_i.o)
+    0x0800bfa8   0x0800bfa8   0x00000008   Data   RO         5987    .constdata          m_wv.l(qnan.o)
+    0x0800bfb0   0x0800bfb0   0x000000c8   Data   RO         5990    .constdata          m_wv.l(rred.o)
+    0x0800c078   0x0800c078   0x00000028   Data   RO         5994    .constdata          m_wv.l(sin_i.o)
+    0x0800c0a0   0x0800c0a0   0x00000081   Data   RO         6023    .constdata          mc_w.l(ctype_o.o)
+    0x0800c121   0x0800c121   0x00000003   PAD
+    0x0800c124   0x0800c124   0x00000004   Data   RO         6024    .constdata          mc_w.l(ctype_o.o)
+    0x0800c128   0x0800c128   0x00000020   Data   RO         6080    Region$$Table       anon$$obj.o
 
 
-    Execution Region RW_IRAM1 (Exec base: 0x20000000, Load base: 0x0800c150, Size: 0x00000000, Max: 0x00020000, ABSOLUTE)
+    Execution Region RW_IRAM1 (Exec base: 0x20000000, Load base: 0x0800c148, Size: 0x00000000, Max: 0x00020000, ABSOLUTE)
 
     **** No section assigned to this execution region ****
 
 
-    Execution Region RW_IRAM2 (Exec base: 0x24000000, Load base: 0x0800c150, Size: 0x00025eb0, Max: 0x00080000, ABSOLUTE)
+    Execution Region RW_IRAM2 (Exec base: 0x24000000, Load base: 0x0800c148, Size: 0x00025eb0, Max: 0x00080000, ABSOLUTE)
 
     Exec Addr    Load Addr    Size         Type   Attr      Idx    E Section Name        Object
 
-    0x24000000   0x0800c150   0x0000001b   Data   RW           27    .data               ad9959.o
-    0x2400001b   0x0800c16b   0x00000001   PAD
-    0x2400001c   0x0800c16c   0x00000015   Data   RW          250    .data               debug.o
-    0x24000031   0x0800c181   0x00000003   PAD
-    0x24000034   0x0800c184   0x00000080   Data   RW          330    .data               main.o
-    0x240000b4   0x0800c204   0x00000009   Data   RW         2923    .data               stm32h7xx_hal.o
-    0x240000bd   0x0800c20d   0x00000003   PAD
-    0x240000c0   0x0800c210   0x00000008   Data   RW         5607    .data               system_stm32h7xx.o
-    0x240000c8   0x0800c218   0x00000004   Data   RW         6015    .data               mc_w.l(stdout.o)
-    0x240000cc   0x0800c21c   0x00000004   Data   RW         6053    .data               mc_w.l(errno.o)
+    0x24000000   0x0800c148   0x0000001b   Data   RW           27    .data               ad9959.o
+    0x2400001b   0x0800c163   0x00000001   PAD
+    0x2400001c   0x0800c164   0x00000015   Data   RW          250    .data               debug.o
+    0x24000031   0x0800c179   0x00000003   PAD
+    0x24000034   0x0800c17c   0x00000080   Data   RW          330    .data               main.o
+    0x240000b4   0x0800c1fc   0x00000009   Data   RW         2923    .data               stm32h7xx_hal.o
+    0x240000bd   0x0800c205   0x00000003   PAD
+    0x240000c0   0x0800c208   0x00000008   Data   RW         5607    .data               system_stm32h7xx.o
+    0x240000c8   0x0800c210   0x00000004   Data   RW         6015    .data               mc_w.l(stdout.o)
+    0x240000cc   0x0800c214   0x00000004   Data   RW         6053    .data               mc_w.l(errno.o)
     0x240000d0        -       0x00000bb8   Zero   RW          249    .bss                debug.o
     0x24000c88        -       0x00005000   Zero   RW          329    .bss                main.o
     0x24005c88        -       0x000000dc   Zero   RW          468    .bss                adc.o
@@ -3512,38 +3512,38 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Object Name
 
-       966         94          0         27          0    1325440   ad9959.o
-       412         34          0          0        220       2031   adc.o
-       672        144          0         21       3000       5125   debug.o
-        52          4          0          0          0        850   dma.o
-       148         14          0          0          0       1015   gpio.o
-       304         34          0          0        112       2320   lptim.o
-      1784        180          0        128      20480       7556   main.o
-        36          8        664          0     131072        820   startup_stm32h750xx.o
-       312         62          0          9          0      24389   stm32h7xx_hal.o
-      3788        238          0          0          0      79729   stm32h7xx_hal_adc.o
-       376         20          0          0          0      62535   stm32h7xx_hal_adc_ex.o
-       310         22          0          0          0      39959   stm32h7xx_hal_cortex.o
-      8662        166          8          0          0      13162   stm32h7xx_hal_dma.o
-       560         56          0          0          0       3043   stm32h7xx_hal_gpio.o
-      1498         32          0          0          0       9318   stm32h7xx_hal_lptim.o
-        72          4          0          0          0        950   stm32h7xx_hal_msp.o
-        96          6          0          0          0        757   stm32h7xx_hal_pwr_ex.o
-      3524        108          0          0          0       6836   stm32h7xx_hal_rcc.o
-      7220        180          0          0          0      10555   stm32h7xx_hal_rcc_ex.o
-      2680        248          0          0          0      14557   stm32h7xx_hal_tim.o
-       192         26          0          0          0       1452   stm32h7xx_hal_tim_ex.o
-      4802        182         24          0          0      36310   stm32h7xx_hal_uart.o
-       360         10         16          0          0       5426   stm32h7xx_hal_uart_ex.o
-        94         18          0          0          0       6023   stm32h7xx_it.o
-       260         40         16          8          0       1414   system_stm32h7xx.o
-       304         28          0          0         76       2428   tim.o
-       264         24          0          0        144       1846   usart.o
+       966         94          0         27          0    1325564   ad9959.o
+       412         34          0          0        220       2071   adc.o
+       672        144          0         21       3000       5121   debug.o
+        52          4          0          0          0        874   dma.o
+       148         14          0          0          0       1031   gpio.o
+       304         34          0          0        112       2376   lptim.o
+      1780        176          0        128      20480       7664   main.o
+        36          8        664          0     131072        832   startup_stm32h750xx.o
+       312         62          0          9          0      24493   stm32h7xx_hal.o
+      3788        238          0          0          0      79989   stm32h7xx_hal_adc.o
+       376         20          0          0          0      62583   stm32h7xx_hal_adc_ex.o
+       310         22          0          0          0      40007   stm32h7xx_hal_cortex.o
+      8662        166          8          0          0      13270   stm32h7xx_hal_dma.o
+       560         56          0          0          0       3083   stm32h7xx_hal_gpio.o
+      1498         32          0          0          0       9470   stm32h7xx_hal_lptim.o
+        72          4          0          0          0        966   stm32h7xx_hal_msp.o
+        96          6          0          0          0        769   stm32h7xx_hal_pwr_ex.o
+      3524        108          0          0          0       6908   stm32h7xx_hal_rcc.o
+      7220        180          0          0          0      10639   stm32h7xx_hal_rcc_ex.o
+      2680        248          0          0          0      14745   stm32h7xx_hal_tim.o
+       192         26          0          0          0       1472   stm32h7xx_hal_tim_ex.o
+      4802        182         24          0          0      36530   stm32h7xx_hal_uart.o
+       360         10         16          0          0       5510   stm32h7xx_hal_uart_ex.o
+        94         18          0          0          0       6147   stm32h7xx_it.o
+       260         40         16          8          0       1422   system_stm32h7xx.o
+       304         28          0          0         76       2472   tim.o
+       264         24          0          0        144       1886   usart.o
 
     ----------------------------------------------------------------------
-     39772       1982        766        200     155104    1665846   Object Totals
+     39768       1978        762        200     155104    1667894   Object Totals
          0          0         32          0          0          0   (incl. Generated)
-        24          0          6          7          0          0   (incl. Padding)
+        24          0          2          7          0          0   (incl. Padding)
 
     ----------------------------------------------------------------------
 
@@ -3617,15 +3617,15 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
 
-     48154       2706       1334        208     155104    1650650   Grand Totals
-     48154       2706       1334        208     155104    1650650   ELF Image Totals
-     48154       2706       1334        208          0          0   ROM Totals
+     48150       2702       1330        208     155104    1652698   Grand Totals
+     48150       2702       1330        208     155104    1652698   ELF Image Totals
+     48150       2702       1330        208          0          0   ROM Totals
 
 ==============================================================================
 
-    Total RO  Size (Code + RO Data)                49488 (  48.33kB)
+    Total RO  Size (Code + RO Data)                49480 (  48.32kB)
     Total RW  Size (RW Data + ZI Data)            155312 ( 151.67kB)
-    Total ROM Size (Code + RO Data + RW Data)      49696 (  48.53kB)
+    Total ROM Size (Code + RO Data + RW Data)      49688 (  48.52kB)
 
 ==============================================================================
 

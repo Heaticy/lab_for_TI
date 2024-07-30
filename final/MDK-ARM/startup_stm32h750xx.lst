@@ -1270,12 +1270,12 @@ ARM Macro Assembler    Page 20
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M7.fp.dp --apcs=
 interwork --depend=sweep\startup_stm32h750xx.d -osweep\startup_stm32h750xx.o -I
-.\RTE\_sweep -I"D:\Program Files (x86)\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Inc
-lude" -I"D:\Program Files (x86)\Arm\Packs\Keil\STM32H7xx_DFP\3.1.0\Drivers\CMSI
-S\Device\ST\STM32H7xx\Include" --predefine="__MICROLIB SETA 1" --predefine="__U
-VISION_VERSION SETA 535" --predefine="_RTE_ SETA 1" --predefine="STM32H750xx SE
-TA 1" --predefine="_RTE_ SETA 1" --list=startup_stm32h750xx.lst startup_stm32h7
-50xx.s
+.\RTE\_sweep -IC:\Users\lcf\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\
+Include -IC:\Users\lcf\AppData\Local\Arm\Packs\Keil\STM32H7xx_DFP\2.7.0\Drivers
+\CMSIS\Device\ST\STM32H7xx\Include --predefine="__MICROLIB SETA 1" --predefine=
+"__UVISION_VERSION SETA 535" --predefine="_RTE_ SETA 1" --predefine="STM32H750x
+x SETA 1" --predefine="_RTE_ SETA 1" --list=startup_stm32h750xx.lst startup_stm
+32h750xx.s
 
 
 
